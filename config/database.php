@@ -1,7 +1,7 @@
 <?php
 return [
     'host' => 'localhost',
-    'dbname' => 'umentor',
+    'dbname' => 'database',
     'username' => 'root',
     'password' => 'root',
 ];
