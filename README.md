@@ -37,7 +37,7 @@ Este é um aplicativo simples para gerenciar usuários, exibindo uma tabela em t
 4. **Crie a tabela de usuários no MySQL:**
    Execute o seguinte comando SQL para criar a tabela de usuários e criar os usuários:
    ```
-   https://github.com/jfechaves/challenge_mvc/config/users.sql
+   config/users.sql
    ```
 
 5. **Execute o servidor PHP:**
